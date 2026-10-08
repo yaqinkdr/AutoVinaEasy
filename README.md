@@ -1,4 +1,3 @@
-```markdown
 # AutoVinaEasy
 
 **Automated Molecular Docking Pipeline with Adaptive Search Grid Box Protocol for Medical Research**
