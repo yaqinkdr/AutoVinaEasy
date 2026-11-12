@@ -47,7 +47,7 @@ AutoVinaEasy functions as a **grounded hypothesis generator**: it produces ranke
 ### Installation
 1. Install python and download vina.exe from https://a.scripps.edu/, obabel from https://openbabel.org
 2. download autovinaeasy.py, save in same directory or setting the environmevinnt
-3. on cmd run ``` pip install costumtkinter rdkit meeko scipy gemmi tqdm```
+3. on cmd run ```pip install "numpy>=1.24.0" "pandas>=2.0.0" "biopython>=1.81" "customtkinter>=5.2.0" "rdkit>=2023.9.1" "Pillow>=10.0.0"```
 ### Running the Pipeline
 
 ```bash
