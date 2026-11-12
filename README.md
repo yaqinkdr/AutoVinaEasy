@@ -45,20 +45,9 @@ AutoVinaEasy functions as a **grounded hypothesis generator**: it produces ranke
 | [RDKit](https://www.rdkit.org/) | 2022+ | Ligand 3D generation |
 
 ### Installation
-
-```bash
-# Clone repository
-git clone https://github.com/your-username/AutoVinaEasy.git
-cd AutoVinaEasy
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
+1. Install python and download vina.exe from https://a.scripps.edu/, obabel from https://openbabel.org
+2. download autovinaeasy.py, save in same directory or setting the environmevinnt
+3. on cmd run ``` pip install costumtkinter rdkit meeko scipy gemmi tqdm```
 ### Running the Pipeline
 
 ```bash
